@@ -1,0 +1,13 @@
+
+
+body {
+    background-image: url(./img/double-bubble-outline.png);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.divStyles {
+    background-color: rgb(240, 226, 214);
+    margin: 10px;
+    width: 500px;
+    height: 200px;
+}
