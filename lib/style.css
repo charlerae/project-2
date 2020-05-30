@@ -11,3 +11,10 @@ body {
     width: 500px;
     height: 200px;
 }
+
+.two {
+    background-image: url(./img/final.png);
+}
+
+.three {
+    background-image: url(./img/images.png);
