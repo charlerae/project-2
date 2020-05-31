@@ -19,11 +19,9 @@ body {
 
 #myChat {
     border: dotted lightgray 2px;
-}
-
-#myChat {
     padding: 10px;
 }
+
 
 #feed {
     width: 450px;
